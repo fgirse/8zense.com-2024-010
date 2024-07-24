@@ -15,7 +15,7 @@ export default function DashboardLayout(props: { children: React.ReactNode }) {
           <li>
             <Link
               href="/dashboard/"
-              className="border-none text-gray-700 hover:text-gray-900"
+              className="rounded-lg border-2 bg-slate-500 px-2 py-1 uppercase text-gray-100 hover:bg-red-800 hover:text-gray-50"
             >
               {t('dashboard_link')}
             </Link>
@@ -23,7 +23,7 @@ export default function DashboardLayout(props: { children: React.ReactNode }) {
           <li>
             <Link
               href="/dashboard/user-profile/"
-              className="border-none text-gray-700 hover:text-gray-900"
+              className="rounded-lg border-2 bg-slate-500 px-2 py-1 uppercase text-gray-100 hover:bg-red-800 hover:text-gray-50"
             >
               {t('user_profile_link')}
             </Link>

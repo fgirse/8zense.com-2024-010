@@ -1,41 +1,41 @@
 {
   "RootLayout": {
-    "home_link": "Home",
-    "about_link": "About",
-    "guestbook_link": "Guestbook",
+    "home_link": "Start",
+    "about_link": "über uns",
+    "guestbook_link": "Gästebuch",
     "portfolio_link": "Portfolio",
-    "sign_in_link": "Sign in",
-    "sign_up_link": "Sign up"
+    "sign_in_link": "Anmelden",
+    "sign_up_link": "Registrieren"
   },
   "BaseTemplate": {
-    "description": "Starter code for your Nextjs Boilerplate with Tailwind CSS",
+    "description":"exlusives- zeitloses Desing mit dem Werkstoff Beton",
     "made_with": "Made with"
   },
   "Index": {
-    "meta_title": "Next.js Boilerplate Presentation",
-    "meta_description": "Next js Boilerplate is the perfect starter code for your project. Build your React application with the Next.js framework."
+    "meta_title": "8zense.com",
+    "meta_description": "Zeitloses und eclusives Design mit dem Werkstoff Beton."
   },
   "Guestbook": {
-    "meta_title": "Guestbook",
-    "meta_description": "An example of CRUD operation",
+    "meta_title": "Gästebuch",
+    "meta_description": "Beispiel cvon CRUD Operationen",
     "database_powered_by": "Database powered by",
-    "loading_guestbook": "Loading guestbook...",
-    "error_reporting_powered_by": "Error reporting powered by"
+    "loading_guestbook": "Ladung Gästebuch...",
+    "error_reporting_powered_by": "Fehlemeldung powered by "
   },
   "GuestbookForm": {
-    "username": "Username",
+    "username": "Benutzername",
     "body": "Body",
-    "save": "Save"
+    "save": "Sichern"
   },
   "About": {
-    "meta_title": "About",
-    "meta_description": "About page description",
-    "about_paragraph": "Welcome to our About page! We are a team of passionate individuals dedicated to creating amazing software.",
+    "meta_title": "über uns",
+    "meta_description": "über 8zense.com",
+    "about_paragraph": "Willkommen  auf der Wir-über-uns -Seite! We lieben Design und daas Experimentieren mit verschiedenen Werkstoffen Beton, Stahl, Holz und Glas...",
     "translation_powered_by": "Translation powered by"
   },
   "Portfolio": {
     "meta_title": "Portfolio",
-    "meta_description": "Welcome to my portfolio page!",
+    "meta_description": "Willkommen zur Galerie Seite!",
     "presentation": "Welcome to my portfolio page! Here you will find a carefully curated collection of my work and accomplishments. Through this portfolio, I'm to showcase my expertise, creativity, and the value I can bring to your projects.",
     "portfolio_name": "Portfolio {name}",
     "error_reporting_powered_by": "Error reporting powered by",
@@ -49,30 +49,30 @@
     "log_management_powered_by": "Log management powered by"
   },
   "SignIn": {
-    "meta_title": "Sign in",
-    "meta_description": "Seamlessly sign in to your account with our user-friendly login process."
+    "meta_title": "Anmelden",
+    "meta_description": "Melden Sie sich sicher und unkompliziert zu Ihrem Account an.."
   },
   "SignUp": {
-    "meta_title": "Sign up",
-    "meta_description": "Effortlessly create an account through our intuitive sign-up process."
+    "meta_title": "Registrieren",
+    "meta_description": "Registrieren Sie sich und legen sie einen persönlichen Account an ."
   },
   "Dashboard": {
     "meta_title": "Dashboard",
-    "hello_message": "Hello {email}!",
-    "intro_Text": "We are sooo happy that you've found the Premium Part of 8zense.com"
+    "hello_message": "Guten Tag {email}!",
+    "intro_Text": "Wir freuen uns sehr, dass Sie den Weg zum Premium Inhalt von 8zense.com gefunden haben"
   },
   "UserProfile": {
-    "meta_title": "User Profile"
+    "meta_title": "anwender Profile"
   },
 
   "galery": {
-    "meta_title": "Gallery"
+    "meta_title": "Galleria"
   },
 
   "DashboardLayout": {
     "dashboard_link": "Dashboard",
-    "user_profile_link": "your account",
-    "galery_link": "Gallery",
-    "sign_out": "Sign out"
+    "user_profile_link": "account",
+    "galery_link": "Galleria",
+    "sign_out": "Abmelden"
   }
 }

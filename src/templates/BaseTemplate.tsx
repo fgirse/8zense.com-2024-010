@@ -10,11 +10,11 @@ const BaseTemplate = (props: {
   const t = useTranslations('BaseTemplate');
 
   return (
-    <div className="w-full px-1 text-gray-700 antialiased">
+    <div className="w-full px-1 text-slate-700 antialiased">
       <div className="mx-auto max-w-screen-md">
-        <header className="border-b border-gray-300">
+        <header className=" border-b border-gray-300 bg-slate-700">
           <div className="pb-8 pt-16">
-            <h1 className="text-3xl font-bold text-gray-900">
+            <h1 className="text-7xl font-bold text-red-900">
               {AppConfig.name}
             </h1>
             <h2 className="text-xl">{t('description')}</h2>
@@ -42,9 +42,9 @@ const BaseTemplate = (props: {
           {` ${t('made_with')} `}
           <a
             href="https://creativedesignsguru.com"
-            className="text-blue-700 hover:border-b-2 hover:border-blue-700"
+            className="text-orange-700 hover:border-b-2 hover:border-blue-700"
           >
-            CreativeDesignsGuru
+            MEDICUS DESIGN Basel 🇨🇭
           </a>
           .
           {/*

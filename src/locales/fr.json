@@ -58,14 +58,20 @@
   },
   "Dashboard": {
     "meta_title": "Tableau de bord",
-    "hello_message": "Bonjour {email}!"
+    "hello_message": "Bonjour {email}!",
+    "intro_Text": "Nous sommes tres jolie, que vous avez trouve le chemin de la Premium Part de 8zense.com"
   },
   "UserProfile": {
     "meta_title": "Profil de l'utilisateur"
   },
+
+  "galery": {
+    "meta_title": "Exposition du Projects"
+  },
   "DashboardLayout": {
     "dashboard_link": "Tableau de bord",
     "user_profile_link": "Gérer votre compte",
+    "galery_link": "Gallerie",
     "sign_out": "Se déconnecter"
   }
 }

@@ -1,9 +1,9 @@
+// eslint-disable-next-line simple-import-sort/imports
 import '@/styles/global.css';
 
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { NextIntlClientProvider, useMessages } from 'next-intl';
-
 import { DemoBadge } from '@/components/DemoBadge';
 import { AppConfig } from '@/utils/AppConfig';
 
